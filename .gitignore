@@ -1,0 +1,4 @@
+/aws-dynamo-rds
+.vscode
+/venv
+.env

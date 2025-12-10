@@ -1,0 +1,58 @@
+{
+    "RDS_ESTUDIANTES": [
+        {
+            "id_estudiante": 1,
+            "dni": "12345678A",
+            "nombre": "Ana López",
+            "fecha_nacimiento": "2000-05-12",
+            "correo": "ana.lopez@email.com",
+            "telefono": "600123456",
+            "nacionalidad": "Española",
+            "id_centro": 1,
+            "titulacion": "Ingeniería Informática",
+            "curso_academico": "2024/25"
+        },
+        {
+            "id_estudiante": 2,
+            "dni": "87654321B",
+            "nombre": "Pedro Martínez",
+            "fecha_nacimiento": "1999-11-03",
+            "correo": "pedro.martinez@email.com",
+            "telefono": "600654321",
+            "nacionalidad": "Española",
+            "id_centro": 2,
+            "titulacion": "Administración de Empresas",
+            "curso_academico": "2024/25"
+        },
+        {
+            "id_estudiante": 3,
+            "dni": "11223344C",
+            "nombre": "Lucía García",
+            "fecha_nacimiento": "2001-02-20",
+            "correo": "lucia.garcia@email.com",
+            "telefono": null,
+            "nacionalidad": "Española",
+            "id_centro": 1,
+            "titulacion": "Biología",
+            "curso_academico": "2024/25"
+        }
+    ],
+    "DYNAMO_TABLA_SIMPLE": [
+        {
+            "nombre": "Registro 3",
+            "id": 3.0
+        },
+        {
+            "nombre": "Registro 4",
+            "id": 4.0
+        },
+        {
+            "nombre": "Registro 6",
+            "id": 6.0
+        },
+        {
+            "nombre": "Registro 5",
+            "id": 5.0
+        }
+    ]
+}
